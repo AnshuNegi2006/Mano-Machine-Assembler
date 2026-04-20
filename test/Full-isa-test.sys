@@ -1,6 +1,6 @@
 VAR x 7;         
 VAR y 3;         
-VAR res 0;       
+VAR res 0;
 VAR neg1 -1;     
 
 LABEL: MULT : LDA y;      
