@@ -21,6 +21,7 @@ The bridge between high-level logic and hardware is often invisible. This projec
 ```bash
 git clone https://github.com/AnshuNegi2006/Mano-Machine-Assembler.git
 cd Mano-Machine-Assembler
+```
 
 ### 2. Compilation
 Use any standard C compiler (GCC recommended):
