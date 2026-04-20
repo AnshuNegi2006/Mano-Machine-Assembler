@@ -17,13 +17,18 @@ The bridge between high-level logic and hardware is often invisible. This projec
 
 ## Quick Start
 
-### 1. Compilation
+### 1. Clone the repository
+```bash
+git clone https://github.com/AnshuNegi2006/Mano-Machine-Assembler.git
+cd Mano-Machine-Assembler
+
+### 2. Compilation
 Use any standard C compiler (GCC recommended):
 ```bash
 gcc Assembler.c -o Assembler
 ```
 
-###2. Run the Assembler
+###3. Run the Assembler
 Feed your source file (ending in ;) into the assembler to generate a binary output:
 ```bash
 ./Assembler input_file.sys
