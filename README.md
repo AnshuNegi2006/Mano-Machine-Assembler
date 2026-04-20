@@ -7,7 +7,7 @@ A robust 2-pass assembler written in C, designed to translate custom assembly sy
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 🎯 Project Goals
+## Project Goals
 The bridge between high-level logic and hardware is often invisible. This project was built to demystify that gap by creating a tool that handles:
 * **Label Resolution:** Mapping human-readable branch targets to memory addresses.
 * **Instruction Encoding:** Packing opcodes, indirect bits, and addresses into 16-bit words.
@@ -15,7 +15,7 @@ The bridge between high-level logic and hardware is often invisible. This projec
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Compilation
 Use any standard C compiler (GCC recommended):
