@@ -16,7 +16,6 @@ Variables are used to allocate memory and store initial values. They are process
 
 - **Example:**
 VAR val1 15;
-VAR temp 0;
 
 -------------------------------
 
@@ -27,7 +26,6 @@ This assembler uses a unique "Triple-Token" format for labels to identify branch
   
 - **Example:**
 LABEL: START : LDA val1;
-LABEL: LOOP : ADD temp;
 
 -------------------------------
 
