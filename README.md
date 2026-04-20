@@ -30,7 +30,7 @@ gcc Assembler.c -o Assembler
 ```
 
 ###3. Run the Assembler
-Feed your source file (ending in ;) into the assembler to generate a binary output:
+Feed your source file (ending in .sys) into the assembler to generate a binary output:
 ```bash
 ./Assembler input_file.sys
 ```
